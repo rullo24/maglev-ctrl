@@ -5,3 +5,5 @@ Closed-loop magnetic levitation controller designed to suspend a permanent magne
 ## Overview
 
 Because open-loop magnetic levitation is inherently unstable (Earnshaw's theorem), this system uses a high-frequency feedback loop (MCU driven) to continuously modulate an electromagnet's field based on real-time magnetic flux measurements.
+
+All magnetics are contained within the PCA that is designed. No external wiring it required.   
