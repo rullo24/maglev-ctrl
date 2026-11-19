@@ -1,11 +1,8 @@
 debug
 target
 ref/
-
 **/*.rs.bk
-
 *.pdb
-
 **/mutants.out*/
-
 rustc-ice-*.txt
+**.DS_STORE
