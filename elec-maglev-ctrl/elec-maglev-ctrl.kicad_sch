@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "dd0c4888-2d44-464f-9e32-c11ac0d88d6e")
+	(paper "A4")
+	(title_block
+		(title "MagLev-Ctrl")
+		(date "2026-11-21")
+		(rev "A")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

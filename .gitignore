@@ -6,3 +6,9 @@ ref/
 **/mutants.out*/
 rustc-ice-*.txt
 **.DS_STORE
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+sim/out/
