@@ -6,6 +6,7 @@ ref/
 **/mutants.out*/
 rustc-ice-*.txt
 **.DS_STORE
+elec-maglev-ctrl/elec-maglev-ctrl-backups
 
 # Python / uv
 .venv/

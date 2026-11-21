@@ -10,6 +10,360 @@
 		(rev "A")
 	)
 	(lib_symbols)
+	(rectangle
+		(start 89.408 143.256)
+		(end 126.238 157.226)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "27b959dd-884e-431a-8f08-dcb7afb42131")
+	)
+	(rectangle
+		(start 117.602 35.306)
+		(end 149.352 53.086)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "294bfd8d-f307-4391-ab79-56beb15af72d")
+	)
+	(rectangle
+		(start 241.808 29.21)
+		(end 268.478 44.45)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "5bb44348-4dc9-44c9-8390-662d7276372b")
+	)
+	(rectangle
+		(start 59.436 31.496)
+		(end 86.106 46.736)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "675553c7-b1d6-4559-94b8-ed7ee48ecf0e")
+	)
+	(rectangle
+		(start 142.24 93.98)
+		(end 168.91 109.22)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "90c16661-0762-444f-8640-208b69211d41")
+	)
+	(rectangle
+		(start 53.848 96.266)
+		(end 80.518 111.506)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "e32e55ab-cd3f-46bd-a2e8-f256837a24fd")
+	)
+	(rectangle
+		(start 249.428 134.366)
+		(end 276.098 149.606)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "f20ab3e3-6128-4525-8d56-176ea2202941")
+	)
+	(text "Power Type (USB or 2-Wire)"
+		(exclude_from_sim no)
+		(at 132.334 47.498 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "05a648b7-3d0a-45a4-886d-522b424525c7")
+	)
+	(text "Decoupling"
+		(exclude_from_sim no)
+		(at 59.944 99.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0a605660-da87-4735-94f9-c95dd1c7cdca")
+	)
+	(text "C.Rullo Signatures (images+text)"
+		(exclude_from_sim no)
+		(at 106.426 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1b0ca261-e3ad-4eb9-81cd-8c383775b2ba")
+	)
+	(text "Heartbeat"
+		(exclude_from_sim no)
+		(at 259.08 147.574 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2624b89e-ce81-460b-8349-fc44e3eec619")
+	)
+	(text "Coil Driving"
+		(exclude_from_sim no)
+		(at 66.04 34.036 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "39ffc191-fc59-4a21-a1d7-e3da2b07d119")
+	)
+	(text "Power"
+		(exclude_from_sim no)
+		(at 62.23 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "41112ac8-9c7c-49ce-bc22-f3780fc51028")
+	)
+	(text "Mounting Holes"
+		(exclude_from_sim no)
+		(at 99.06 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4a156e57-6b89-4751-841e-a42eb0ba2c9b")
+	)
+	(text "Magnetics"
+		(exclude_from_sim no)
+		(at 246.38 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5c9887c0-e13d-4f8b-9d8d-b5ab11ba3d96")
+	)
+	(text "Back EMF"
+		(exclude_from_sim no)
+		(at 123.952 50.292 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "65d180ec-71da-4151-bfbe-0674c6525cd4")
+	)
+	(text "Reverse Polarity"
+		(exclude_from_sim no)
+		(at 129.286 44.196 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6b86ed24-091e-4bdf-8af6-e3b9d1e13aed")
+	)
+	(text "Current Reporting"
+		(exclude_from_sim no)
+		(at 259.08 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6ff7fb60-e081-4b77-9ceb-a1db4a2ed0ae")
+	)
+	(text "Magnetic Sensing"
+		(exclude_from_sim no)
+		(at 251.46 41.148 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "73c7ac39-d9e8-4038-aefb-9d28d3cab706")
+	)
+	(text "2-Wire Power"
+		(exclude_from_sim no)
+		(at 67.31 42.672 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "74629b4c-da7e-4201-a0de-020ea8b999ac")
+	)
+	(text "Protection"
+		(exclude_from_sim no)
+		(at 122.428 34.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "84375676-69e1-46a4-b419-5e1e83bdb31f")
+	)
+	(text "Soft Ramp-Up"
+		(exclude_from_sim no)
+		(at 125.73 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9205b317-b639-404d-8a88-a1344c146775")
+	)
+	(text "Permenant Magnets"
+		(exclude_from_sim no)
+		(at 253.492 32.258 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "96491c0e-ba52-4d4d-959f-a2d6046c5b9e")
+	)
+	(text "Debug"
+		(exclude_from_sim no)
+		(at 258.572 144.018 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a06534ee-5e18-4c39-aa2f-b65d2c25c736")
+	)
+	(text "Overcurrent Protection"
+		(exclude_from_sim no)
+		(at 129.794 41.148 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b733cc64-e300-4bd0-a815-5e0793039352")
+	)
+	(text "Serial"
+		(exclude_from_sim no)
+		(at 253.746 140.716 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c07e880c-57a1-4332-b344-fa4fb5c437be")
+	)
+	(text "Testing"
+		(exclude_from_sim no)
+		(at 145.542 92.964 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cee0c675-221d-4aa1-a637-c5af4301bca1")
+	)
+	(text "Coils"
+		(exclude_from_sim no)
+		(at 246.38 35.052 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d140b8e2-037f-4d2a-8917-4d4ba536de5c")
+	)
+	(text "Mechanical"
+		(exclude_from_sim no)
+		(at 94.488 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ed382fce-774b-4972-a500-3c3589900efe")
+	)
+	(text "MCU"
+		(exclude_from_sim no)
+		(at 55.88 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f1795288-7a70-4a0c-8e90-45377599b569")
+	)
+	(text "Test Pads"
+		(exclude_from_sim no)
+		(at 148.336 97.028 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f8693350-6939-4277-a3ad-08e43b37ed10")
+	)
+	(text "Diagnostics"
+		(exclude_from_sim no)
+		(at 254.762 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fd239154-f7cf-4507-a62b-e1ffe2fd22fc")
+	)
+	(text "USB PD"
+		(exclude_from_sim no)
+		(at 64.262 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fefa38e5-18a4-476d-99ec-637e33d72a6b")
+	)
+	(text "PD Voltage Negotiation"
+		(exclude_from_sim no)
+		(at 72.136 39.624 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ff3b4572-0c88-49e6-a9a2-d8c9970944b5")
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
